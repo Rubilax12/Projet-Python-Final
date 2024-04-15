@@ -1,4 +1,4 @@
-# Seb-Moi
+# Seb&Moi
 Python3 bruteForce + Générateur mdp sur serveur
 
 Créer un serveur qui génère un mdp aléatoire et un client qui doit casser le mdp précédent par brute force.
