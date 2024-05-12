@@ -6,7 +6,7 @@ Pour utiliser ce projet:
 -Lancer le serveur dans votre terminal (exemple: cmd ou terminal Linux) avec la commande "python3 server.py" (server.py est l'emplacement de votre fichier)
 -Lancer le client dans un autre terminal avec la commande client.py
 -Attendre la fin du programme pour pouvoir lire le résultat (attention si la taille du mot de passe est supérieure à 6 ça peut être long).
--
+
 
 Consignes:
 "Créer un serveur qui génère un mdp aléatoire et un client qui doit casser le mdp précédent par brute force.
