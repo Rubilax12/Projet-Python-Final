@@ -1,4 +1,4 @@
-# Seb & Dimitri
+# Projet Python Final
 Python3 BruteForce + Générateur mot de passe aléatoire sur un serveur (ici local host)
 
 Pour utiliser ce projet:                          
